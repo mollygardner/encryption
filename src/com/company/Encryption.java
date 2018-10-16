@@ -1,3 +1,5 @@
+package com.company;
+
 public class Encryption {
     private String plaintext;
     private String cyphertext;
