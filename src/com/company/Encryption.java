@@ -42,7 +42,8 @@ public class Encryption {
     { 
       String data = s.nextLine(); 
       if (data.equals("")) 
-      { 
+      { }
+        
     private String plaintext;
     private String cyphertext;
     private String key;
